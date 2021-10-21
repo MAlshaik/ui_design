@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ui_design",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ui_design (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "rps_ui_e1",
+            "cwd": "rps_ui_collection\\rps_ui_e1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "rps_ui_e1 (profile mode)",
+            "cwd": "rps_ui_collection\\rps_ui_e1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "rps_ui_e2",
+            "cwd": "rps_ui_collection\\rps_ui_e2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "rps_ui_e2 (profile mode)",
+            "cwd": "rps_ui_collection\\rps_ui_e2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
